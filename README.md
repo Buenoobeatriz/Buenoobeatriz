@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-Meu nome é Beatriz Bueno, tenho 14 anos e curso desenvolvimento de sistemas na ETEC. 
+Meu nome é Beatriz Bueno, tenho 15 anos e curso desenvolvimento de sistemas na ETEC. 
 
 Tenho foco no front-end e no user experience.
 </div>
